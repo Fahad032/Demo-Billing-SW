@@ -120,6 +120,7 @@
 	<div class="transparent"></div>
 	
 	<!-- Added a new comment to checkout the terminal commit action -->
+	<span class="fa fa-facebook"></span>
 	
 </body>
 </html>
